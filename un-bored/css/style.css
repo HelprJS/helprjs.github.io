@@ -1,0 +1,46 @@
+* {
+    text-decoration: none;
+}
+
+body {
+    color: white;
+    background: dodgerblue;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    font-family: 'Baloo Da 2', sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+    background: black;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Baloo Da 2', sans-serif;
+
+}
+
+a {
+    font-family: 'Baloo Da 2', sans-serif;
+    color: #fbbc3f;
+    font-size: 22px;
+    padding: 10px;
+}
+
+a:hover {
+    color: #f87f21;
+}
+
+.home {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
